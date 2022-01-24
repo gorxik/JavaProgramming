@@ -29,7 +29,7 @@ public class Employee {
 
     public String toString() {
         return "Employee{" +
-                "name='"  + name + '\'' +
+                "name='" + name + '\'' +
                 ", salary=" + salary +
                 '}';
     }
